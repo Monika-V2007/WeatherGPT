@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="stormCloud" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#64748B"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+  </defs>
+  <path d="M 18 38 C 13 38, 9 34, 9 29 C 9 24, 13 20, 18 19 C 20 14, 25 10, 32 10 C 39 10, 45 15, 47 21 C 51 22, 53 26, 53 30 C 53 35, 49 38, 44 38 Z" fill="url(#stormCloud)" />
+  <!-- Lightning bolt -->
+  <polygon points="34,36 26,48 33,48 30,58 42,44 35,44" fill="#FFD200" stroke="#FFD200" stroke-width="1"/>
+</svg>
